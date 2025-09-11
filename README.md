@@ -1,3 +1,3 @@
 # ch15_happygit
-Analysis of the stuff
+Analysis of the stuff/n
 This is a line from Rstudio in HappyGit chapter 15
